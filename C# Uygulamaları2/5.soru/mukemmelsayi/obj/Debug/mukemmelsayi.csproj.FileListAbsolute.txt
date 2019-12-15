@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\mukemmelsayi\bin\Debug\mukemmelsayi.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\mukemmelsayi\bin\Debug\mukemmelsayi.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\mukemmelsayi\bin\Debug\mukemmelsayi.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\mukemmelsayi\obj\Debug\mukemmelsayi.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\mukemmelsayi\obj\Debug\mukemmelsayi.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\mukemmelsayi\obj\Debug\mukemmelsayi.pdb

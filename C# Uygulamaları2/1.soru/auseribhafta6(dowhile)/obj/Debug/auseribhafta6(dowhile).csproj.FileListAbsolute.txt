@@ -1,0 +1,5 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(dowhile)\bin\Debug\auseribhafta6(dowhile).exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(dowhile)\bin\Debug\auseribhafta6(dowhile).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(dowhile)\bin\Debug\auseribhafta6(dowhile).pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(dowhile)\obj\Debug\auseribhafta6(dowhile).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(dowhile)\obj\Debug\auseribhafta6(dowhile).pdb

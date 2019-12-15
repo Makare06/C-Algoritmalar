@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6\bin\Debug\auseribhafta6.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6\bin\Debug\auseribhafta6.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6\bin\Debug\auseribhafta6.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6\obj\Debug\auseribhafta6.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6\obj\Debug\auseribhafta6.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6\obj\Debug\auseribhafta6.pdb

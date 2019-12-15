@@ -1,0 +1,5 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonaccihafta6(c)\bin\Debug\fibonaccihafta6(c).exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonaccihafta6(c)\bin\Debug\fibonaccihafta6(c).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonaccihafta6(c)\bin\Debug\fibonaccihafta6(c).pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonaccihafta6(c)\obj\Debug\fibonaccihafta6(c).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonaccihafta6(c)\obj\Debug\fibonaccihafta6(c).pdb

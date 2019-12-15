@@ -1,0 +1,5 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(while)\bin\Debug\auseribhafta6(while).exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(while)\bin\Debug\auseribhafta6(while).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(while)\bin\Debug\auseribhafta6(while).pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(while)\obj\Debug\auseribhafta6(while).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\auseribhafta6(while)\obj\Debug\auseribhafta6(while).pdb

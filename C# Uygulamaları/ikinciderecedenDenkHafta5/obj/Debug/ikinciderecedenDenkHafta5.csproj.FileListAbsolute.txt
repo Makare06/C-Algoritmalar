@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-7\ikinciderecedenDenkHafta5\bin\Debug\ikinciderecedenDenkHafta5.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-7\ikinciderecedenDenkHafta5\bin\Debug\ikinciderecedenDenkHafta5.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-7\ikinciderecedenDenkHafta5\bin\Debug\ikinciderecedenDenkHafta5.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-7\ikinciderecedenDenkHafta5\obj\Debug\ikinciderecedenDenkHafta5.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-7\ikinciderecedenDenkHafta5\obj\Debug\ikinciderecedenDenkHafta5.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-7\ikinciderecedenDenkHafta5\obj\Debug\ikinciderecedenDenkHafta5.pdb

@@ -1,0 +1,6 @@
+c:\users\windows10\documents\visual studio 2015\Projects\kiyafethafta5\bin\Debug\kiyafethafta5.exe.config
+c:\users\windows10\documents\visual studio 2015\Projects\kiyafethafta5\bin\Debug\kiyafethafta5.exe
+c:\users\windows10\documents\visual studio 2015\Projects\kiyafethafta5\bin\Debug\kiyafethafta5.pdb
+c:\users\windows10\documents\visual studio 2015\Projects\kiyafethafta5\obj\Debug\kiyafethafta5.csprojResolveAssemblyReference.cache
+c:\users\windows10\documents\visual studio 2015\Projects\kiyafethafta5\obj\Debug\kiyafethafta5.exe
+c:\users\windows10\documents\visual studio 2015\Projects\kiyafethafta5\obj\Debug\kiyafethafta5.pdb

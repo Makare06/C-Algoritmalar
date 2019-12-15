@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonacciHafta6(a)\bin\Debug\fibonacciHafta6(a).exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonacciHafta6(a)\bin\Debug\fibonacciHafta6(a).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonacciHafta6(a)\bin\Debug\fibonacciHafta6(a).pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonacciHafta6(a)\obj\Debug\fibonacciHafta6(a).csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonacciHafta6(a)\obj\Debug\fibonacciHafta6(a).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\fibonacciHafta6(a)\obj\Debug\fibonacciHafta6(a).pdb

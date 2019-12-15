@@ -1,0 +1,5 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\asciiKodkucult\bin\Debug\asciiKodkucult.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\asciiKodkucult\bin\Debug\asciiKodkucult.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\asciiKodkucult\bin\Debug\asciiKodkucult.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\asciiKodkucult\obj\Debug\asciiKodkucult.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\asciiKodkucult\obj\Debug\asciiKodkucult.pdb

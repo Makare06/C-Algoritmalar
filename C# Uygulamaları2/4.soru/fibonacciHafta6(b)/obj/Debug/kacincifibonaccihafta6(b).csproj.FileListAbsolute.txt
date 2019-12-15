@@ -1,0 +1,5 @@
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\kacincifibonaccihafta6(b)\bin\Debug\kacincifibonaccihafta6(b).exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\kacincifibonaccihafta6(b)\bin\Debug\kacincifibonaccihafta6(b).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\kacincifibonaccihafta6(b)\bin\Debug\kacincifibonaccihafta6(b).pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\kacincifibonaccihafta6(b)\obj\Debug\kacincifibonaccihafta6(b).exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-6\kacincifibonaccihafta6(b)\obj\Debug\kacincifibonaccihafta6(b).pdb

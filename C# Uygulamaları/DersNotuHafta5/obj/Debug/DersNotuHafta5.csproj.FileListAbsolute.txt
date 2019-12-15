@@ -1,0 +1,9 @@
+c:\users\windows10\documents\visual studio 2015\Projects\DersNotuHafta5\bin\Debug\DersNotuHafta5.exe.config
+c:\users\windows10\documents\visual studio 2015\Projects\DersNotuHafta5\bin\Debug\DersNotuHafta5.exe
+c:\users\windows10\documents\visual studio 2015\Projects\DersNotuHafta5\bin\Debug\DersNotuHafta5.pdb
+c:\users\windows10\documents\visual studio 2015\Projects\DersNotuHafta5\obj\Debug\DersNotuHafta5.csprojResolveAssemblyReference.cache
+c:\users\windows10\documents\visual studio 2015\Projects\DersNotuHafta5\obj\Debug\DersNotuHafta5.exe
+c:\users\windows10\documents\visual studio 2015\Projects\DersNotuHafta5\obj\Debug\DersNotuHafta5.pdb
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-5\DersNotuHafta5\bin\Debug\DersNotuHafta5.exe.config
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-5\DersNotuHafta5\obj\Debug\DersNotuHafta5.exe
+C:\Users\Windows10\Documents\Visual Studio 2015\Projects\Hafta-5\DersNotuHafta5\obj\Debug\DersNotuHafta5.pdb

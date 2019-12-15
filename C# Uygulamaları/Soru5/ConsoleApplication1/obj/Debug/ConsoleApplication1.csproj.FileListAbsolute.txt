@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\Ödev2MAA\Soru5\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\Ödev2MAA\Soru5\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\Ödev2MAA\Soru5\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\PC\Desktop\Ödev2MAA\Soru5\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\PC\Desktop\Ödev2MAA\Soru5\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
